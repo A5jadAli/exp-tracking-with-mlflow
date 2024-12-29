@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/f543003259b94cd28d891a1069191ebb/artifacts
+end_time: 1735418238802
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f543003259b94cd28d891a1069191ebb
+run_name: delicate-ox-424
+run_uuid: f543003259b94cd28d891a1069191ebb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735418238703
+status: 3
+tags: []
+user_id: S

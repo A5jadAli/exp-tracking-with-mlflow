@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/958668935488575253/115afd00f1dd46feaa05de8b6d604cd4/artifacts
+end_time: 1735469917909
+entry_point_name: ''
+experiment_id: '958668935488575253'
+lifecycle_stage: active
+run_id: 115afd00f1dd46feaa05de8b6d604cd4
+run_name: worried-cow-710
+run_uuid: 115afd00f1dd46feaa05de8b6d604cd4
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735469898852
+status: 3
+tags: []
+user_id: S

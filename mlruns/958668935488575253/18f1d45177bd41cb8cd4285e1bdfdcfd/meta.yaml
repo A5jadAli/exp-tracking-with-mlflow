@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/958668935488575253/18f1d45177bd41cb8cd4285e1bdfdcfd/artifacts
+end_time: 1735469110230
+entry_point_name: ''
+experiment_id: '958668935488575253'
+lifecycle_stage: active
+run_id: 18f1d45177bd41cb8cd4285e1bdfdcfd
+run_name: industrious-elk-437
+run_uuid: 18f1d45177bd41cb8cd4285e1bdfdcfd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735469109106
+status: 3
+tags: []
+user_id: S

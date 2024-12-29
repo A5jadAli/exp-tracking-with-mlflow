@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/cf6b24d18a0d48fdadcfbbd859abc683/artifacts
+end_time: 1735419401826
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: cf6b24d18a0d48fdadcfbbd859abc683
+run_name: gregarious-fish-171
+run_uuid: cf6b24d18a0d48fdadcfbbd859abc683
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735419400418
+status: 3
+tags: []
+user_id: S
