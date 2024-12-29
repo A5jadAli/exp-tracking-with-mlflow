@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/S/OneDrive/Desktop/exp-tracking-with-mlflow/mlruns/240452697021931247/4de81825c3ee488fb2f52aa48fe36931/artifacts
+end_time: 1735476327674
+entry_point_name: ''
+experiment_id: '240452697021931247'
+lifecycle_stage: active
+run_id: 4de81825c3ee488fb2f52aa48fe36931
+run_name: polite-ray-7
+run_uuid: 4de81825c3ee488fb2f52aa48fe36931
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735476327582
+status: 3
+tags: []
+user_id: S

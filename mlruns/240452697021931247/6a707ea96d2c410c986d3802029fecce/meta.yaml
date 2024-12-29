@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/S/OneDrive/Desktop/exp-tracking-with-mlflow/mlruns/240452697021931247/6a707ea96d2c410c986d3802029fecce/artifacts
+end_time: 1735476328344
+entry_point_name: ''
+experiment_id: '240452697021931247'
+lifecycle_stage: active
+run_id: 6a707ea96d2c410c986d3802029fecce
+run_name: indecisive-panda-316
+run_uuid: 6a707ea96d2c410c986d3802029fecce
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735476328251
+status: 3
+tags: []
+user_id: S

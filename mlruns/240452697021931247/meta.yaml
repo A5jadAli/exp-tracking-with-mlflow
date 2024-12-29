@@ -1,0 +1,6 @@
+artifact_location: file:///C:/Users/S/OneDrive/Desktop/exp-tracking-with-mlflow/mlruns/240452697021931247
+creation_time: 1735476313019
+experiment_id: '240452697021931247'
+last_update_time: 1735476313019
+lifecycle_stage: active
+name: breast-cancer-rf-hp

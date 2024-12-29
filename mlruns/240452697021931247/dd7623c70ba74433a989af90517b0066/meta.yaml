@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/S/OneDrive/Desktop/exp-tracking-with-mlflow/mlruns/240452697021931247/dd7623c70ba74433a989af90517b0066/artifacts
+end_time: 1735476329011
+entry_point_name: ''
+experiment_id: '240452697021931247'
+lifecycle_stage: active
+run_id: dd7623c70ba74433a989af90517b0066
+run_name: intrigued-hog-308
+run_uuid: dd7623c70ba74433a989af90517b0066
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735476328901
+status: 3
+tags: []
+user_id: S
