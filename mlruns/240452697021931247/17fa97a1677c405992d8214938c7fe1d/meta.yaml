@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/S/OneDrive/Desktop/exp-tracking-with-mlflow/mlruns/240452697021931247/17fa97a1677c405992d8214938c7fe1d/artifacts
+end_time: 1735489596293
+entry_point_name: ''
+experiment_id: '240452697021931247'
+lifecycle_stage: active
+run_id: 17fa97a1677c405992d8214938c7fe1d
+run_name: thoughtful-croc-804
+run_uuid: 17fa97a1677c405992d8214938c7fe1d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735489596206
+status: 3
+tags: []
+user_id: S

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/S/OneDrive/Desktop/exp-tracking-with-mlflow/mlruns/240452697021931247/507855350d6142d2a496659b72213915/artifacts
+end_time: 1735489598430
+entry_point_name: ''
+experiment_id: '240452697021931247'
+lifecycle_stage: active
+run_id: 507855350d6142d2a496659b72213915
+run_name: bald-goose-925
+run_uuid: 507855350d6142d2a496659b72213915
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735489598303
+status: 3
+tags: []
+user_id: S

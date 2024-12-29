@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/S/OneDrive/Desktop/exp-tracking-with-mlflow/mlruns/240452697021931247/52be8e98c2b94345936704975a5f066b/artifacts
+end_time: 1735489590072
+entry_point_name: ''
+experiment_id: '240452697021931247'
+lifecycle_stage: active
+run_id: 52be8e98c2b94345936704975a5f066b
+run_name: popular-cat-574
+run_uuid: 52be8e98c2b94345936704975a5f066b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735489589952
+status: 3
+tags: []
+user_id: S

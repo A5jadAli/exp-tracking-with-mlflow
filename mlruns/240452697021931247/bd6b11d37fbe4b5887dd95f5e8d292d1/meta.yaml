@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/S/OneDrive/Desktop/exp-tracking-with-mlflow/mlruns/240452697021931247/bd6b11d37fbe4b5887dd95f5e8d292d1/artifacts
+end_time: 1735489595504
+entry_point_name: ''
+experiment_id: '240452697021931247'
+lifecycle_stage: active
+run_id: bd6b11d37fbe4b5887dd95f5e8d292d1
+run_name: puzzled-crab-403
+run_uuid: bd6b11d37fbe4b5887dd95f5e8d292d1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735489595394
+status: 3
+tags: []
+user_id: S

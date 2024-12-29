@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/S/OneDrive/Desktop/exp-tracking-with-mlflow/mlruns/240452697021931247/aae77341ed554825866ca68ac4ec47ab/artifacts
+end_time: 1735489584988
+entry_point_name: ''
+experiment_id: '240452697021931247'
+lifecycle_stage: active
+run_id: aae77341ed554825866ca68ac4ec47ab
+run_name: zealous-pig-46
+run_uuid: aae77341ed554825866ca68ac4ec47ab
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735489584874
+status: 3
+tags: []
+user_id: S

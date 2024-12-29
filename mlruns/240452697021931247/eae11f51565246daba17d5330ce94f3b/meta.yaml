@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/S/OneDrive/Desktop/exp-tracking-with-mlflow/mlruns/240452697021931247/eae11f51565246daba17d5330ce94f3b/artifacts
+end_time: 1735489583826
+entry_point_name: ''
+experiment_id: '240452697021931247'
+lifecycle_stage: active
+run_id: eae11f51565246daba17d5330ce94f3b
+run_name: omniscient-hen-986
+run_uuid: eae11f51565246daba17d5330ce94f3b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735489583731
+status: 3
+tags: []
+user_id: S

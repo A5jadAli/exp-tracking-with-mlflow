@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1735489704192
+current_stage: None
+description: ''
+last_updated_timestamp: 1735489704192
+name: model-1
+run_id: a495690dbe7d4df6a8374e563f00f103
+run_link: ''
+source: file:///C:/Users/S/OneDrive/Desktop/exp-tracking-with-mlflow/mlruns/240452697021931247/a495690dbe7d4df6a8374e563f00f103/artifacts/random_forest
+status: READY
+status_message: null
+storage_location: file:///C:/Users/S/OneDrive/Desktop/exp-tracking-with-mlflow/mlruns/240452697021931247/a495690dbe7d4df6a8374e563f00f103/artifacts/random_forest
+user_id: null
+version: 1

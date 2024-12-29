@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/S/OneDrive/Desktop/exp-tracking-with-mlflow/mlruns/240452697021931247/4a51dc08e13d41b6b6bd9e647eb60d1c/artifacts
+end_time: 1735489582226
+entry_point_name: ''
+experiment_id: '240452697021931247'
+lifecycle_stage: active
+run_id: 4a51dc08e13d41b6b6bd9e647eb60d1c
+run_name: casual-smelt-59
+run_uuid: 4a51dc08e13d41b6b6bd9e647eb60d1c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735489582129
+status: 3
+tags: []
+user_id: S

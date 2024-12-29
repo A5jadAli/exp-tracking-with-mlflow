@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/S/OneDrive/Desktop/exp-tracking-with-mlflow/mlruns/240452697021931247/87cfeca0ebb94899bd1660adafa29d96/artifacts
+end_time: 1735489595813
+entry_point_name: ''
+experiment_id: '240452697021931247'
+lifecycle_stage: active
+run_id: 87cfeca0ebb94899bd1660adafa29d96
+run_name: skittish-swan-795
+run_uuid: 87cfeca0ebb94899bd1660adafa29d96
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735489595541
+status: 3
+tags: []
+user_id: S

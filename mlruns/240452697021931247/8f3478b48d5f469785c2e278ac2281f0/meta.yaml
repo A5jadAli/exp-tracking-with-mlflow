@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/S/OneDrive/Desktop/exp-tracking-with-mlflow/mlruns/240452697021931247/8f3478b48d5f469785c2e278ac2281f0/artifacts
+end_time: 1735489594430
+entry_point_name: ''
+experiment_id: '240452697021931247'
+lifecycle_stage: active
+run_id: 8f3478b48d5f469785c2e278ac2281f0
+run_name: exultant-cat-199
+run_uuid: 8f3478b48d5f469785c2e278ac2281f0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735489594240
+status: 3
+tags: []
+user_id: S

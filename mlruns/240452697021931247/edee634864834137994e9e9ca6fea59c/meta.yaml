@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/S/OneDrive/Desktop/exp-tracking-with-mlflow/mlruns/240452697021931247/edee634864834137994e9e9ca6fea59c/artifacts
+end_time: 1735489595193
+entry_point_name: ''
+experiment_id: '240452697021931247'
+lifecycle_stage: active
+run_id: edee634864834137994e9e9ca6fea59c
+run_name: exultant-whale-859
+run_uuid: edee634864834137994e9e9ca6fea59c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735489595086
+status: 3
+tags: []
+user_id: S

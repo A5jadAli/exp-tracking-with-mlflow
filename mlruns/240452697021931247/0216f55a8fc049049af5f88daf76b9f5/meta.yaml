@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/S/OneDrive/Desktop/exp-tracking-with-mlflow/mlruns/240452697021931247/0216f55a8fc049049af5f88daf76b9f5/artifacts
+end_time: 1735489599811
+entry_point_name: ''
+experiment_id: '240452697021931247'
+lifecycle_stage: active
+run_id: 0216f55a8fc049049af5f88daf76b9f5
+run_name: stylish-hog-352
+run_uuid: 0216f55a8fc049049af5f88daf76b9f5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735489599707
+status: 3
+tags: []
+user_id: S

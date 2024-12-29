@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/S/OneDrive/Desktop/exp-tracking-with-mlflow/mlruns/240452697021931247/feb6499519874c0f83d2c19373380f4d/artifacts
+end_time: 1735489590998
+entry_point_name: ''
+experiment_id: '240452697021931247'
+lifecycle_stage: active
+run_id: feb6499519874c0f83d2c19373380f4d
+run_name: funny-crane-200
+run_uuid: feb6499519874c0f83d2c19373380f4d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735489590887
+status: 3
+tags: []
+user_id: S

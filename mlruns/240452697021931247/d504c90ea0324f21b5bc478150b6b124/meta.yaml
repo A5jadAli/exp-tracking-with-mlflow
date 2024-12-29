@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/S/OneDrive/Desktop/exp-tracking-with-mlflow/mlruns/240452697021931247/d504c90ea0324f21b5bc478150b6b124/artifacts
+end_time: 1735489597263
+entry_point_name: ''
+experiment_id: '240452697021931247'
+lifecycle_stage: active
+run_id: d504c90ea0324f21b5bc478150b6b124
+run_name: nebulous-shad-502
+run_uuid: d504c90ea0324f21b5bc478150b6b124
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735489597160
+status: 3
+tags: []
+user_id: S

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/S/OneDrive/Desktop/exp-tracking-with-mlflow/mlruns/240452697021931247/01c3874a4b054f59bd47228dd8be536d/artifacts
+end_time: 1735489583698
+entry_point_name: ''
+experiment_id: '240452697021931247'
+lifecycle_stage: active
+run_id: 01c3874a4b054f59bd47228dd8be536d
+run_name: clean-roo-235
+run_uuid: 01c3874a4b054f59bd47228dd8be536d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735489583601
+status: 3
+tags: []
+user_id: S

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/S/OneDrive/Desktop/exp-tracking-with-mlflow/mlruns/240452697021931247/17033ee38f2f48789a8824aa3e1e3687/artifacts
+end_time: 1735489583084
+entry_point_name: ''
+experiment_id: '240452697021931247'
+lifecycle_stage: active
+run_id: 17033ee38f2f48789a8824aa3e1e3687
+run_name: capable-newt-75
+run_uuid: 17033ee38f2f48789a8824aa3e1e3687
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735489582970
+status: 3
+tags: []
+user_id: S

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/S/OneDrive/Desktop/exp-tracking-with-mlflow/mlruns/240452697021931247/99010ad48aed4477b2167576bfba4f32/artifacts
+end_time: 1735489589912
+entry_point_name: ''
+experiment_id: '240452697021931247'
+lifecycle_stage: active
+run_id: 99010ad48aed4477b2167576bfba4f32
+run_name: gaudy-hound-258
+run_uuid: 99010ad48aed4477b2167576bfba4f32
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735489589799
+status: 3
+tags: []
+user_id: S

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/S/OneDrive/Desktop/exp-tracking-with-mlflow/mlruns/240452697021931247/4e957bca13fa47ba88d0d72ff72d4102/artifacts
+end_time: 1735489588668
+entry_point_name: ''
+experiment_id: '240452697021931247'
+lifecycle_stage: active
+run_id: 4e957bca13fa47ba88d0d72ff72d4102
+run_name: dashing-fox-789
+run_uuid: 4e957bca13fa47ba88d0d72ff72d4102
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735489588540
+status: 3
+tags: []
+user_id: S

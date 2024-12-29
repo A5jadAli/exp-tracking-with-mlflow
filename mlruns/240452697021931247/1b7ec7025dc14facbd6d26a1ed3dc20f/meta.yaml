@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/S/OneDrive/Desktop/exp-tracking-with-mlflow/mlruns/240452697021931247/1b7ec7025dc14facbd6d26a1ed3dc20f/artifacts
+end_time: 1735489587338
+entry_point_name: ''
+experiment_id: '240452697021931247'
+lifecycle_stage: active
+run_id: 1b7ec7025dc14facbd6d26a1ed3dc20f
+run_name: caring-goat-489
+run_uuid: 1b7ec7025dc14facbd6d26a1ed3dc20f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735489587223
+status: 3
+tags: []
+user_id: S

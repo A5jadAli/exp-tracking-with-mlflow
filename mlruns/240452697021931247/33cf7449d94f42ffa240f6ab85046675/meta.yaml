@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/S/OneDrive/Desktop/exp-tracking-with-mlflow/mlruns/240452697021931247/33cf7449d94f42ffa240f6ab85046675/artifacts
+end_time: 1735489598127
+entry_point_name: ''
+experiment_id: '240452697021931247'
+lifecycle_stage: active
+run_id: 33cf7449d94f42ffa240f6ab85046675
+run_name: nosy-rook-355
+run_uuid: 33cf7449d94f42ffa240f6ab85046675
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735489598021
+status: 3
+tags: []
+user_id: S

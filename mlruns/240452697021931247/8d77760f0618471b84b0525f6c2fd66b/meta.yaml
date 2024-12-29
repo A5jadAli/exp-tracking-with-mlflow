@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/S/OneDrive/Desktop/exp-tracking-with-mlflow/mlruns/240452697021931247/8d77760f0618471b84b0525f6c2fd66b/artifacts
+end_time: 1735489587664
+entry_point_name: ''
+experiment_id: '240452697021931247'
+lifecycle_stage: active
+run_id: 8d77760f0618471b84b0525f6c2fd66b
+run_name: merciful-roo-484
+run_uuid: 8d77760f0618471b84b0525f6c2fd66b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735489587538
+status: 3
+tags: []
+user_id: S

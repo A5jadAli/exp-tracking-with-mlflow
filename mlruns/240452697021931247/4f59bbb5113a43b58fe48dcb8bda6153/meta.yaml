@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/S/OneDrive/Desktop/exp-tracking-with-mlflow/mlruns/240452697021931247/4f59bbb5113a43b58fe48dcb8bda6153/artifacts
+end_time: 1735489584226
+entry_point_name: ''
+experiment_id: '240452697021931247'
+lifecycle_stage: active
+run_id: 4f59bbb5113a43b58fe48dcb8bda6153
+run_name: crawling-lynx-255
+run_uuid: 4f59bbb5113a43b58fe48dcb8bda6153
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735489584134
+status: 3
+tags: []
+user_id: S

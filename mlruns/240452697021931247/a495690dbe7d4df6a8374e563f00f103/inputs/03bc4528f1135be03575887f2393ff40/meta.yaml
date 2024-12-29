@@ -1,0 +1,6 @@
+destination_id: f57da3085ab57c2b71fe10a7df786ab3
+destination_type: RUN
+source_id: f57da3085ab57c2b71fe10a7df786ab3
+source_type: DATASET
+tags:
+  mlflow.data.context: test data

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/S/OneDrive/Desktop/exp-tracking-with-mlflow/mlruns/240452697021931247/909b31a80c9e4999bf1ec68b0d93ebf3/artifacts
+end_time: 1735489585718
+entry_point_name: ''
+experiment_id: '240452697021931247'
+lifecycle_stage: active
+run_id: 909b31a80c9e4999bf1ec68b0d93ebf3
+run_name: learned-turtle-967
+run_uuid: 909b31a80c9e4999bf1ec68b0d93ebf3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735489585577
+status: 3
+tags: []
+user_id: S

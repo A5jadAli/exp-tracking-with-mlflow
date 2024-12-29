@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/S/OneDrive/Desktop/exp-tracking-with-mlflow/mlruns/240452697021931247/d8282497d38f4ac0ae89476801b84734/artifacts
+end_time: 1735489598687
+entry_point_name: ''
+experiment_id: '240452697021931247'
+lifecycle_stage: active
+run_id: d8282497d38f4ac0ae89476801b84734
+run_name: clumsy-cub-186
+run_uuid: d8282497d38f4ac0ae89476801b84734
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735489598584
+status: 3
+tags: []
+user_id: S

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/S/OneDrive/Desktop/exp-tracking-with-mlflow/mlruns/240452697021931247/7fbb7a3616ed4ca8aa5c6a575396d859/artifacts
+end_time: 1735489592285
+entry_point_name: ''
+experiment_id: '240452697021931247'
+lifecycle_stage: active
+run_id: 7fbb7a3616ed4ca8aa5c6a575396d859
+run_name: painted-quail-455
+run_uuid: 7fbb7a3616ed4ca8aa5c6a575396d859
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735489592172
+status: 3
+tags: []
+user_id: S

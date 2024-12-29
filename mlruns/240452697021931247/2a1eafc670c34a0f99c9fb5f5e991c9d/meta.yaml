@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/S/OneDrive/Desktop/exp-tracking-with-mlflow/mlruns/240452697021931247/2a1eafc670c34a0f99c9fb5f5e991c9d/artifacts
+end_time: 1735489587836
+entry_point_name: ''
+experiment_id: '240452697021931247'
+lifecycle_stage: active
+run_id: 2a1eafc670c34a0f99c9fb5f5e991c9d
+run_name: incongruous-hen-706
+run_uuid: 2a1eafc670c34a0f99c9fb5f5e991c9d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735489587722
+status: 3
+tags: []
+user_id: S

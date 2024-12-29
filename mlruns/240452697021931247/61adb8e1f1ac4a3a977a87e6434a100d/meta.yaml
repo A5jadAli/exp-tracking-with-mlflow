@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/S/OneDrive/Desktop/exp-tracking-with-mlflow/mlruns/240452697021931247/61adb8e1f1ac4a3a977a87e6434a100d/artifacts
+end_time: 1735489585978
+entry_point_name: ''
+experiment_id: '240452697021931247'
+lifecycle_stage: active
+run_id: 61adb8e1f1ac4a3a977a87e6434a100d
+run_name: sassy-fawn-849
+run_uuid: 61adb8e1f1ac4a3a977a87e6434a100d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735489585881
+status: 3
+tags: []
+user_id: S

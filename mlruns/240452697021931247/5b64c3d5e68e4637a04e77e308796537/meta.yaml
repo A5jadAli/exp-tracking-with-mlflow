@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/S/OneDrive/Desktop/exp-tracking-with-mlflow/mlruns/240452697021931247/5b64c3d5e68e4637a04e77e308796537/artifacts
+end_time: 1735489593487
+entry_point_name: ''
+experiment_id: '240452697021931247'
+lifecycle_stage: active
+run_id: 5b64c3d5e68e4637a04e77e308796537
+run_name: invincible-shark-624
+run_uuid: 5b64c3d5e68e4637a04e77e308796537
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735489593400
+status: 3
+tags: []
+user_id: S

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/S/OneDrive/Desktop/exp-tracking-with-mlflow/mlruns/240452697021931247/9ef943846dd14965bdf87db7ee36eaea/artifacts
+end_time: 1735489584673
+entry_point_name: ''
+experiment_id: '240452697021931247'
+lifecycle_stage: active
+run_id: 9ef943846dd14965bdf87db7ee36eaea
+run_name: languid-skunk-388
+run_uuid: 9ef943846dd14965bdf87db7ee36eaea
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735489584560
+status: 3
+tags: []
+user_id: S

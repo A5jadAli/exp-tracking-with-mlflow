@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/S/OneDrive/Desktop/exp-tracking-with-mlflow/mlruns/240452697021931247/dd5a606d190b4a4c9ff45ecb4c9a8e26/artifacts
+end_time: 1735489585400
+entry_point_name: ''
+experiment_id: '240452697021931247'
+lifecycle_stage: active
+run_id: dd5a606d190b4a4c9ff45ecb4c9a8e26
+run_name: stately-gnu-425
+run_uuid: dd5a606d190b4a4c9ff45ecb4c9a8e26
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1735489585305
+status: 3
+tags: []
+user_id: S
